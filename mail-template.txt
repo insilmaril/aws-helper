@@ -1,0 +1,39 @@
+Hi,
+
+here you get your credentials to your new user in the 
+
+Amazon Web Services 
+
+Documentation on how to login to the Amazon Web Services (AWS) can be
+found in:
+
+  https://link.to.your.cool.documentation
+
+
+The URL for AWS itself is:
+
+  https://account-name.signin.aws.amazon.com/console
+
+And here are your credentials:
+
+User:
+USERNAME
+
+Password:
+PASSWORD
+
+Experienced users might want to access AWS services via command line
+tools (CLI), see also
+
+  https://link.to.more.of.your.cool.documentation
+
+Here is your key-ID and secret access key:
+
+Key-ID KEY
+KEYPAIR
+
+
+Best
+Your System Admin
+
+

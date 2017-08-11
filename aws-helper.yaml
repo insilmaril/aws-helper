@@ -1,0 +1,6 @@
+create_accounts:
+    mail_template : "mail-template.txt"
+    mail_cmd : "mutt -s SUBJECT ADDRESS -b BCC"
+    mail_subject: "Your credentials to AWS account"
+    mail_bcc: "your.mail@company.com"
+      
